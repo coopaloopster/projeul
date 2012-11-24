@@ -1,1 +1,3 @@
-print range(10)
+factors = []
+factors += '3'
+print factors
